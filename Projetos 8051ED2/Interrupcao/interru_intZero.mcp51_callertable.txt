@@ -1,0 +1,3 @@
+main
+funcex1
+funcex0

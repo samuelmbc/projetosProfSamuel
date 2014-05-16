@@ -1,0 +1,13 @@
+main
+	ligaBuzzer
+		desligaBuzzer
+		desligaBuzzer
+	Leds
+	ligaRele
+	desligaRele
+	ligaBuzzer
+		desligaBuzzer
+		desligaBuzzer
+	Leds
+	ligaRele
+	desligaRele

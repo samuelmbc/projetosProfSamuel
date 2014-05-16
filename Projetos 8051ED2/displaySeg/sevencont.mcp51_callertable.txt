@@ -1,0 +1,6 @@
+main
+	ImprimeDisp
+		TempoEspera
+	__CC2D
+	ImprimeDisp
+		TempoEspera
